@@ -1,1 +1,3 @@
 Added a new file
+
+Adding additional lines. Demo for conflict.
